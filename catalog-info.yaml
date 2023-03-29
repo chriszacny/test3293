@@ -1,0 +1,14 @@
+---
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  name: tctest3293
+  tags: []
+  description: testtc
+  annotations:
+    github.com/project-slug: tchinf5/test3293
+
+spec:
+  type: service
+  owner: group:cedi
+  lifecycle: experimental
